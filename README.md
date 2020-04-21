@@ -1,0 +1,1 @@
+some scripts written to manage a rhel/centos repo with snapshots to save on disk space, run a dev,test and prod instance without hogging lots of space.  Being space efficient was for an earlier time, but maybe someone can find it useful.
